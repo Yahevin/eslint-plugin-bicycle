@@ -1,0 +1,29 @@
+{
+  "name": "eslint-plugin-bicycle",
+  "version": "1.0.0",
+  "description": "Custom plugin for eslint",
+  "main": "eslint-local-rules.js",
+  "devDependencies": {
+    "typescript": "^4.0.3",
+    "@typescript-eslint/parser": "^4.2.0",
+    "eslint": "^7.9.0",
+    "eslint-plugin-local-rules": "^0.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yahevin/eslint-plugin-bicycle.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-plugin"
+  ],
+  "author": "Yahevin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yahevin/eslint-plugin-bicycle/issues"
+  },
+  "homepage": "https://github.com/Yahevin/eslint-plugin-bicycle#readme"
+}
